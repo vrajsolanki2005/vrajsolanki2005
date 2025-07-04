@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Vraj Solanki 👋
 
-<!--
-**vrajsolanki2005/vrajsolanki2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate developer always eager to learn and build innovative solutions. Here you'll find my projects, experiments, and contributions to open source.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love coding, problem-solving, and building cool stuff.
+- 🌱 Currently learning: New technologies, frameworks, and best practices.
+- 🤝 Open to collaboration on interesting projects and open source.
+
+## 🌐 Connect with Me
+
+<a href="mailto:vrajsolanki2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vrajsolanki2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/vrajsolanki_05"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/vrajsolanki.05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/u/deepestgoods/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+
+## 🛠️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajsolanki2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 📂 Featured Projects
+
+- [Hospital Navigator](https://github.com/vrajsolanki2005/hospitalNavigator)  
+  A smart system for navigating hospitals, improving patient experience and efficiency.
+
+- [Finance Tracker](https://github.com/vrajsolanki2005/FinanceTracker)  
+  An intuitive app to manage your finances, track expenses, and set budgets.
+
+- [Coral Reef Health Classification](https://github.com/vrajsolanki2005/Coral_Reef_Health_Classification)  
+  Machine learning-based project to classify coral reef health from underwater images.
+
+> Explore more in my [Repositories](https://github.com/vrajsolanki2005?tab=repositories) tab!
+
+---
+
+Thanks for visiting! ⭐️  
+Let's connect and create something amazing.
