@@ -29,7 +29,9 @@ I'm a passionate developer always eager to learn and build innovative solutions.
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajsolanki2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ## 🛠️ Technologies Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajsolanki2005&layout=compact&theme=default)
 </p>
 
 ## 📂 Featured Projects
