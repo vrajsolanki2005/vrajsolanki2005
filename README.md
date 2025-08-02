@@ -44,7 +44,7 @@ I'm a passionate developer always eager to learn and build innovative solutions.
 </p>
 
 ## Open-Source Contributions
-<h2>GirlScriptOfCode(GSSOC)'24 X Hactoberfest'23,24</h2>
+<h2>GirlScript Summwer Of Code(GSSOC)'24 X Hactoberfest'23,24</h2>
 <img width="598" height="150" alt="image" src="https://github.com/user-attachments/assets/26110a83-9248-4815-8892-6f779d033260" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1d0cd1b8-e068-4cd3-8f12-7108f958f78e" />
 
 
