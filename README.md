@@ -13,8 +13,7 @@ I'm a passionate developer always eager to learn and build innovative solutions.
 
 <a href="mailto:vrajsolanki2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vrajsolanki2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/vrajsolanki_05"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/vraj_rajput_05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/VrajRajput05"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 <a href="https://leetcode.com/u/deepestgoods/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 
 ## 🛠️ Languages & Tools
