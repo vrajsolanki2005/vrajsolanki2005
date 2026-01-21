@@ -62,7 +62,8 @@ I'm a passionate developer always eager to learn and build innovative solutions.
 > Explore more in my [Repositories](https://github.com/vrajsolanki2005?tab=repositories) tab!
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=vrajsolanki2005)
+<!-- Profile views badge (shows total profile views to date) -->
+[![Profile views](https://komarev.com/ghpvc/?username=vrajsolanki2005&style=flat-square)](https://github.com/vrajsolanki2005)
 
 Thanks for visiting! ⭐️  
 Let's connect and create something amazing.
