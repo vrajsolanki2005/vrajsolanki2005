@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi+I'm+Vraj+Solanki!&animation=fadeIn)
 <!--# Hi there, I'm Vraj Solanki 👋-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI%2FML+Explorer;Open+Source+Contributor;Let's+Build+Together+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Competitive+Programmer;AI%2FML+Explorer;Open+Source+Contributor;Let's+Build+Together+🚀)](https://git.io/typing-svg)
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hi+I'm+Vraj+Solanki!;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)-->
 <!--Welcome to my GitHub profile!-->  
 # 💫 About Me:
 - Currently working on the learning new technologies and building responsive, real-world web applications.
 - Looking to collaborate on Full-stack web projects, ML/AI applications, and open source programs like GSSOC & Hacktoberfest.
-- Looking for help with Advanced React & frontend architecture, backend development with Node.js/Express, Machine Learning concepts, systems programming in Rust, and working efficiently with databases like MongoDB & MySQL.
+- Looking for help with Advanced React & frontend architecture, backend development with Node.js/Express, Machine Learning concepts, and working efficiently with databases like MongoDB & MySQL.
+- Exploring systems programming with Rust, still finding my footing!
 - Ask me about Web development, my open source journey with GSSOC & Hacktoberfest, or competitive programming & DSA!
 
 ## 🌐 Connect with Me
