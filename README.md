@@ -1,69 +1,35 @@
-# Hi there, I'm Vraj Solanki 👋
-
-Welcome to my GitHub profile!  
-I'm a passionate developer always eager to learn and build innovative solutions. Here you'll find my projects, experiments, and contributions to open source.
-
-## 🚀 About Me
-
-- 💻 I love coding, problem-solving, and building cool stuff.
-- 🌱 Currently learning: New technologies, frameworks, and best practices.
-- 🤝 Open to collaboration on interesting projects and open source.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi+I'm+Vraj+Solanki!&animation=fadeIn)
+<!--# Hi there, I'm Vraj Solanki 👋-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI%2FML+Explorer;Open+Source+Contributor;Let's+Build+Together+🚀)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Hi+I'm+Vraj+Solanki!;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)-->
+<!--Welcome to my GitHub profile!-->  
+# 💫 About Me:
+- Currently working on the learning new technologies and building responsive, real-world web applications.
+- Looking to collaborate on Full-stack web projects, ML/AI applications, and open source programs like GSSOC & Hacktoberfest.
+- Looking for help with Advanced React & frontend architecture, backend development with Node.js/Express, Machine Learning concepts, systems programming in Rust, and working efficiently with databases like MongoDB & MySQL.
+- Ask me about Web development, my open source journey with GSSOC & Hacktoberfest, or competitive programming & DSA!
 
 ## 🌐 Connect with Me
 
 <a href="mailto:vrajsolanki2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vraj-solanki-0ab335290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vrajsolanki_05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vraj_rajput_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vraj-solanki-0ab335290) 
 <a href="https://twitter.com/VrajRajput05"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 <a href="https://leetcode.com/u/deepestgoods/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 
-## 🛠️ Languages & Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-
-## 📊 Most Used Languages
-
-<p align="center">
-  ## 🛠️ Technologies Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajsolanki2005&layout=compact&theme=default)
-</p>
 
 ## Open-Source Contributions
 <h2>GirlScript Summer Of Code(GSSOC)'24 X Hactoberfest'23,24</h2>
 <img width="598" height="150" alt="image" src="https://github.com/user-attachments/assets/26110a83-9248-4815-8892-6f779d033260" /> <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1d0cd1b8-e068-4cd3-8f12-7108f958f78e" />
 
 
-
-## 📂 Featured Projects
-
-- [Hospital Navigator](https://github.com/vrajsolanki2005/hospitalNavigator)  
-  A smart system for navigating hospitals, improving patient experience and efficiency.
-
-- [Finance Tracker](https://github.com/vrajsolanki2005/FinanceTracker)  
-  An intuitive app to manage your finances, track expenses, and set budgets.
-
-- [Coral Reef Health Classification](https://github.com/vrajsolanki2005/Coral_Reef_Health_Classification)  
-  Machine learning-based project to classify coral reef health from underwater images.
-
-> Explore more in my [Repositories](https://github.com/vrajsolanki2005?tab=repositories) tab!
-
 ---
 <!-- Profile views badge (shows total profile views to date) -->
 [![Profile views](https://komarev.com/ghpvc/?username=vrajsolanki2005&style=flat-square)](https://github.com/vrajsolanki2005)
+
+
 
 Thanks for visiting! ⭐️  
 Let's connect and create something amazing.
