@@ -38,9 +38,21 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90" />
 
+---
+
+</div>
+<div style="display: flex; justify-content: flex-start; gap: 10px;">
+  <a href="https://www.holopin.io/userbadge/clnztlklr04390fl1j9h0x8mb">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="90" height="90" alt="Badge 1" />
+  </a>
+  <a href="https://www.holopin.io/userbadge/clnztlklr04390fl1j9h0x8mb">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="90" height="90" alt="Badge 2" />
+  </a>
+  <a href="https://www.holopin.io/userbadge/clo75g4sk234470fjzot55h8ti">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG5leHg3dmUyMTcxOTN6amp0c2lvNXZqIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="90" height="90" alt="Badge 3" />
+  </a>
 </div>
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1d0cd1b8-e068-4cd3-8f12-7108f958f78e" />
 ---
 
 <!-- Profile views badge (shows total profile views to date) -->
